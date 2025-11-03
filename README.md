@@ -1,4 +1,5 @@
-<img src="http://joshuafresh2003.github.io/img/joshua.jpeg" alt="Joshua photo" align="right" width="30%">
+<img src="img/joshua.jpeg" alt="Joshua" width="30%" align="right">
+
 #Joshua Van Ceucin
 
 Student
