@@ -1,5 +1,5 @@
 
-#Joshua VanCeucin
+#Joshua Van Ceucin
 
 Student
 
