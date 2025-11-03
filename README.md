@@ -1,4 +1,4 @@
-<img src="joshuaphoto.jpeg" alt="Joshua Van Ceucin Photo" width="150" style="border-radius:20px; border:4px solid #fff; box-shadow:0 8px 25px rgba(0,0,0,0.2);">
+<img src="joshuaphoto.jpeg" alt="Joshua Van Ceucin Photo" width="150" style="border-radius:20px; align="right" width="30%"/>
 
 #Joshua Van Ceucin
 
