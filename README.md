@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="joshua" align="right" width="30%"/>
+<img src="http://joshuafresh2003.github.io/img/joshua.png" alt="joshua" align="right" width="30%"/>
 #Joshua Van Ceucin
 
 Student
