@@ -1,4 +1,4 @@
-<img src="http://joshuafresh2003.github.io/img/joshua.jpeg" alt="Joshua" align="right" width="30%">
+<img src="wmcvphoto.jpg" alt="Win Moe Photo" width="150" style="border-radius:20px; border:4px solid #fff; box-shadow:0 8px 25px rgba(0,0,0,0.2);">
 
 #Joshua Van Ceucin
 
