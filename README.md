@@ -1,4 +1,4 @@
-<img src="img/joshua.jpeg" alt="Joshua" width="30%" align="right">
+<img src="img/Johsua Photo.jpeg" alt="Joshua Photo" width="30%" align="right">
 
 #Joshua Van Ceucin
 
